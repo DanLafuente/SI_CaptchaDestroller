@@ -21,7 +21,7 @@ Metodo de resolucion: principalemte CNN y RNN mas tarde (la base es CNN)
 #### 1.6. H2O.ai: Plataforma de ML escalable, soporta autoML, redes neuronales, y más.
 #### 1.7. Orange: Librería y entorno visual para machine learning.
 
-### 2.Seaborn: Visualización estadística (que no podemos visualizar?)
+### 2. Seaborn: Visualización estadística (que no podemos visualizar?)
 (seguramente que no)
 #### 2.1. Plotly: Gráficos interactivos, ideal para dashboards y aplicaciones web apps.
 #### 2.2. Bokeh: Interactividad avanzada y fácil integración con el navegador.
@@ -32,7 +32,7 @@ Metodo de resolucion: principalemte CNN y RNN mas tarde (la base es CNN)
 (supongo que si)
 #### 2.6. Matplotlib: Base de casi todas las librerías de visualización en Python. Muy flexible.
 
-### Mirar:
+### 3. Mirar:
 (mirar) =>	TensorFlow, PyTorch, Keras (Deep Learning)
 
 (mirar) =>	cv2 (OpenCV) (procesar imágenes y videos) ->
