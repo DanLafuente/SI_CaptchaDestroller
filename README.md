@@ -8,6 +8,7 @@ Metodo de resolucion: principalemte CNN y RNN mas tarde (la base es CNN)
 2. Prblema compuesto: reconocer una cadena de digitos y letras bien separadas (que los caracteres no se junten)
 3. PROBLEMA BOSS: reconocer digitos y letras que se juntan/mezclan (sería ser capaces de separar las letras y digitos que se han solapado)
    
+
 ## Cosas que creo que no podemos usar
 
 ### 1. Scikit-learn (sklearn):  Aprendizaje automático clásico.
