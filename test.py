@@ -1,5 +1,5 @@
 from PIL import Image
-import so
+
 
 directorio_input = 'samples/'
 directorio_output = 'samples_transform/'
@@ -30,3 +30,5 @@ for nombre_archivo in os.listdir(directorio_input):
     matriz = imagen_a_matriz(archivo_nuevo)
 
     ## mostrar_matriz(matriz)
+
+print("HOLA")
